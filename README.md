@@ -46,6 +46,7 @@ The graph below illustrate the percentage rate of customer churn per area state:
 Links:
 
 CustomerChurn_Notebook: https://drive.google.com/file/d/1CkQxpuSDovKwQFmYVUS5Vr4ATL46YOeJ/view?usp=sharing
+
 CustomerChurn_Presentantion: https://drive.google.com/file/d/1HDkxUFQVUXz0d4ZpWmPb2xF-COcBp6vR/view?usp=sharing
 
 
