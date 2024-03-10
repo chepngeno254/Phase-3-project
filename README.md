@@ -49,6 +49,8 @@ CustomerChurn_Notebook: https://drive.google.com/file/d/1CkQxpuSDovKwQFmYVUS5Vr4
 
 CustomerChurn_Presentantion: https://drive.google.com/file/d/1HDkxUFQVUXz0d4ZpWmPb2xF-COcBp6vR/view?usp=sharing
 
+Dataset:https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset
+
 
 
 
