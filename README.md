@@ -43,7 +43,9 @@ The most influential factors to customer churn include the total minutes spent o
 The graph below illustrate the percentage rate of customer churn per area state:-
 <img width="529" alt="image" src="https://github.com/chepngeno254/Phase-3-project/assets/151640004/1871e761-c728-49b1-9a1f-022fc7986f9f">
 
-
+Links:
+CustomerChurn_Notebook: https://drive.google.com/file/d/1CkQxpuSDovKwQFmYVUS5Vr4ATL46YOeJ/view?usp=sharing
+CustomerChurn_Presentantion: https://drive.google.com/file/d/1HDkxUFQVUXz0d4ZpWmPb2xF-COcBp6vR/view?usp=sharing
 
 
 
