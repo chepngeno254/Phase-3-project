@@ -40,8 +40,9 @@ The 510 area code had the highest percentage rate of 14.88%, the 408 area code h
 Feature importance analysis provided insights into the factors contributing to customer churn, allowing for targeted interventions
 The most influential factors to customer churn include the total minutes spent on day calls, the frequency of customer service calls, the charges associated with day calls, the presence of international plans, and the charges for international calls.
 
-The graph below illustrate the percentage rate of customer churn per area state:-
+The graph below illustrate the percentage rate of customer churn per area code:-
 <img width="529" alt="image" src="https://github.com/chepngeno254/Phase-3-project/assets/151640004/1871e761-c728-49b1-9a1f-022fc7986f9f">
+
 
 Links:
 
@@ -49,7 +50,7 @@ CustomerChurn_Notebook: https://drive.google.com/file/d/1CkQxpuSDovKwQFmYVUS5Vr4
 
 CustomerChurn_Presentantion: https://drive.google.com/file/d/1HDkxUFQVUXz0d4ZpWmPb2xF-COcBp6vR/view?usp=sharing
 
-Dataset:https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset
+Dataset: https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset
 
 
 
